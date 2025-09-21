@@ -1,0 +1,19 @@
+/* Add CSS Styling */
+
+.repeated-text {
+  background-color:rgb(255, 150, 150);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.highlighted-text {
+  font-size: 2rem;
+}
+
+#main-message {
+  color: blue;
+}
+
+#secondary-messag {
+  background-color: hsl(120, 100%, 75%);
+  font-weight: bold;
+}
